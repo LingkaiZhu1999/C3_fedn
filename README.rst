@@ -12,6 +12,8 @@ federated machine learning which scales from pseudo-distributed
 development to real-world production networks in distributed,
 heterogeneous environments.
 
+Based on the original code, I add the client.yaml file to start the clients.
+
 Core Features
 =============
 
