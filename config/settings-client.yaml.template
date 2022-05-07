@@ -1,0 +1,4 @@
+network_id: fedn-test-network
+controller:
+    discover_host: 192.168.198.128
+    discover_port: 8090
